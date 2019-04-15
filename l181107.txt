@@ -1,0 +1,9 @@
+Q6
+error:
+member firstname and lastname are inaccessible
+why this error:
+because these members are private in person class so would be hidden in derived classes.
+
+Q8,Q9:
+no error when inheritence is protected
+error when inheritence is private because all the member functions like print and getter setters are now private and are unable to be called in main file.
